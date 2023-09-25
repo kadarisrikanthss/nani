@@ -1,0 +1,19 @@
+
+  public test class
+
+
+  public void m1()
+
+  system.out.println("i am in m1 method")
+
+
+
+  public static void main (string args[]){
+
+
+  m1();
+
+  }
+
+  }
+
